@@ -4,3 +4,6 @@
 - DecoratorPattern
 - FacadePattern
 
+## Behavioral patterns
+- ObserverPattern
+
